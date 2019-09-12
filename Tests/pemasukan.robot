@@ -84,8 +84,6 @@ Sample LoginTest
   Sleep                          1
   Click Element                  id:cashflow__date
   Sleep                          1
-  Click Element                  css: .calendar-open span.inner:first-child
-  Sleep                          3
   Input Text                     id:cashflow__price                                                                                              300.000,00
   Sleep                          1
   Click Button                   Simpan
