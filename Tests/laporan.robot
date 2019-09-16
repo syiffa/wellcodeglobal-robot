@@ -95,7 +95,7 @@ Laporan
 
     Click Element                 css: a.sidebar__content__app-menu:nth-child(4)
     Sleep                         2
-    Page Should Contain           Laporans
+    Page Should Contain           Laporan
     Click Element                 id:unit
     Click Element                 css: select#unit option:nth-child(3)
     Sleep                         1
